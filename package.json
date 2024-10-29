@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "bin": {
-    "numnest": "./main.js"
+    "kw-num-nest-2021202076": "./main.js"
   },
   "author": "",
   "license": "ISC",
