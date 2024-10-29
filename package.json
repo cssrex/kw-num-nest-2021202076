@@ -1,13 +1,13 @@
 {
   "name": "kw-num-nest-2021202076",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "main.js",
   "scripts": {
     "test": "jest"
   },
   "bin": {
-    "kw-num-nest-2021202076": "./main.js"
+    "numnest": "./main.js"
   },
   "author": "",
   "license": "ISC",
